@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This is the first test: App test11 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="interactions"
+  >
+    <form
+      className="soso"
+      onSubmit={[Function]}
+    >
+      Search noww
+      <input
+        className="sallam"
+        onChange={[Function]}
+        type="text"
+        value="redux"
+      />
+      <button
+        type="submit"
+      >
+        Searchh
+      </button>
+    </form>
+  </div>
+  <div
+    className="table"
+  />
+  <div
+    className="interactions"
+  >
+    <button
+      onClick={[Function]}
+    >
+      See more
+    </button>
+  </div>
+</div>
+`;
+
+exports[`This is the fourth test: Table test44 1`] = `
+<div
+  className="table"
+>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <h2>
+        Title: 
+        1
+      </h2>
+      <span
+        style={
+          Object {
+            "color": "blue",
+            "width": "30%",
+          }
+        }
+      >
+        <h3>
+          1
+        </h3>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "40%",
+          }
+        }
+      >
+        <a
+          href={undefined}
+        >
+          Click me
+        </a>
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        Number of comment: 
+        1
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        Number of points: 
+        2
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        <button
+          className="soso1"
+          onClick={[Function]}
+          type="button"
+        >
+          Delete
+        </button>
+      </span>
+    </span>
+      
+  </div>
+  <div
+    className="table-row"
+  >
+    <span
+      style={
+        Object {
+          "width": "40%",
+        }
+      }
+    >
+      <h2>
+        Title: 
+        2
+      </h2>
+      <span
+        style={
+          Object {
+            "color": "blue",
+            "width": "30%",
+          }
+        }
+      >
+        <h3>
+          2
+        </h3>
+      </span>
+      <span
+        style={
+          Object {
+            "width": "40%",
+          }
+        }
+      >
+        <a
+          href={undefined}
+        >
+          Click me
+        </a>
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        Number of comment: 
+        1
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        Number of points: 
+        2
+      </span>
+      <br />
+      <span
+        style={
+          Object {
+            "width": "10%",
+          }
+        }
+      >
+        <button
+          className="soso1"
+          onClick={[Function]}
+          type="button"
+        >
+          Delete
+        </button>
+      </span>
+    </span>
+      
+  </div>
+</div>
+`;
+
+exports[`This is the second test: Search test22 1`] = `
+<form
+  className="soso"
+  onSubmit={undefined}
+>
+  <input
+    className="sallam"
+    onChange={undefined}
+    type="text"
+    value={undefined}
+  />
+  <button
+    type="submit"
+  >
+    Searchh
+  </button>
+</form>
+`;
+
+exports[`This is the third test: Button test33 1`] = `
+<button
+  className="soso1"
+  onClick={[Function]}
+  type="button"
+/>
+`;
